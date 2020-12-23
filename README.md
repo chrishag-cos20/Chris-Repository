@@ -1,4 +1,4 @@
-# Chris-Respitory
+# Chris-Repository
 
 A bit about myself
 
